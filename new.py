@@ -6,4 +6,6 @@ Diff=a-b
 print(The difference of a and b is:Diff)
 Product=a*b
 print(The product of a and b is:Product)
+Q=a/b
+print(The quotient od a and b is:Q)
 
