@@ -20,7 +20,7 @@ int main() {
     }
 
     printf("The largest number is:%d\n",max);
-    printf("The largest number is:%d\n",min);
+    printf("The smallest number is:%d\n",min);
     return 0;
 }
 
